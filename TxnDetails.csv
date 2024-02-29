@@ -1,0 +1,11 @@
+﻿Transaction_date,Transaction_id,User_id,Transaction_type,Amount,Currency,Payment_method,Payment_status,Description,CountryCode,Benename
+2/26/2024 12:30,00006352732,HJG5735,Withdrwal,2000.00,INR,CARD,SUCCESS,SELF,peru,Mahima
+2/25/2024 1:13,00005635286,YUL9853,Deposit,12000.00,INR,IB,SUCCESS,Bill,morocco,Ranu
+2/25/2024 1:11,00006358931,QWE0835,Withdrwal,20000.00,INR,UPI,SUCCESS,Paytm,united states,Renu
+2/24/2024 12:30,00006352875,HUYH5735,Withdrwal,2000.00,INR,CARD,SUCCESS,SELF,new zealand,Swapnil
+2/24/2024 11:30,00006357658,UYT5735,Withdrwal,32000.00,INR,UPI,Failed,Self,china,Madhuri
+2/23/2024 12:30,00006374648,HJG5735,Withdrwal,2000.00,INR,CARD,SUCCESS,SELF,brazil,Shradha
+2/22/2024 1:13,00005374843,POI9853,Deposit,24452.00,INR,IB,SUCCESS,Rent,spain,Rohan
+2/22/2024 1:11,00000883938,ERT0835,Withdrwal,23532.00,INR,UPI,SUCCESS,Paytm,brazil,Chetan
+2/21/2024 12:30,00000264894,MJK9087,Withdrwal,2223.00,INR,CARD,SUCCESS,SELF,canada,Vinit
+2/21/2024 11:30,00008875693,WER4537,Withdrwal,5000.00,INR,UPI,Failed,Self,japan,Pushkar
